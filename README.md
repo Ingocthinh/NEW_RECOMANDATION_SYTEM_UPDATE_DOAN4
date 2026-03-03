@@ -14,7 +14,7 @@ Dự án này là một nền tảng gợi ý tin tức toàn diện, ứng dụ
 -   **Sắp xếp theo độ liên quan (Score Sorting)**: Luôn hiển thị các bài báo có điểm số gợi ý cao nhất lên đầu.
 -   **Lọc đa dạng (Diversity Penalty)**: Tránh việc gợi ý quá nhiều tin từ một chủ đề, đảm bảo nguồn tin phong phú.
 
-## 🚀 Công Nghệ Sử Dụng
+## 🌟  Công Nghệ Sử Dụng
 
 ### Frontend
 -   **React + TypeScript + Vite**: Đảm bảo tốc độ và độ ổn định cao.
