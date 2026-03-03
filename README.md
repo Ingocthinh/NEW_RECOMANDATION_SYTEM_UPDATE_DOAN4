@@ -90,4 +90,5 @@ newrecomandationsystem/
 -   **Cải thiện thuật toán sắp xếp**: Sắp xếp điểm số gợi ý từ cao xuống thấp chính xác.
 -   **Tối ưu hóa đa dạng tin tức**: Cải thiện thuật toán Diversity Penalty giúp người dùng không bị "ngợp" bởi 1 loại tin.
 -   **Bổ sung Skeleton Card**: Nâng cao trải nghiệm người dùng trong thời gian chờ load tin.
-Mọi thắc mắc vui lòng liên hệ email:ic.lengocthinh@gmail.com
+-   Mọi thắc mắc vui lòng liên hệ email:ic.lengocthinh@gmail.com
+
