@@ -1,0 +1,21 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+dist/
+build/
+.vscode/
+.idea/
+
+# Exclude uncompressed large files
+ml_service/model/
+data_train/*.csv
+data/*.db-journal
+
+# Exclude large single RAR
+ml_service/model.rar
+
+# ALLOW split model volumes
+!ml_service/model_split.part*.rar
+!data/news.db
