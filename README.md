@@ -1,4 +1,5 @@
-<img width="1907" height="1035" alt="image" src="https://github.com/user-attachments/assets/acb90375-c70f-4d20-9508-306fa0fef526" />
+<img width="1907" height="1035" alt="image" src="https://github.com/user-attachments/assets/acb90375-c70f-4d20-9508-306fa0fef526" />\
+#link dự án dowload:https://drive.google.com/file/d/1iP55iU8hGVNd--ODe9cin-Xg8f9ezlzu/view?usp=drive_link
 
 # Hệ Thống Gợi Ý Tin Tức Cá Nhân Hóa (Thesis Level)
 
@@ -89,3 +90,4 @@ newrecomandationsystem/
 -   **Cải thiện thuật toán sắp xếp**: Sắp xếp điểm số gợi ý từ cao xuống thấp chính xác.
 -   **Tối ưu hóa đa dạng tin tức**: Cải thiện thuật toán Diversity Penalty giúp người dùng không bị "ngợp" bởi 1 loại tin.
 -   **Bổ sung Skeleton Card**: Nâng cao trải nghiệm người dùng trong thời gian chờ load tin.
+Mọi thắc mắc vui lòng liên hệ email:ic.lengocthinh@gmail.com
