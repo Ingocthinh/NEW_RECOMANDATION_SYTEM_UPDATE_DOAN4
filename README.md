@@ -31,7 +31,7 @@ Dự án này là một nền tảng gợi ý tin tức toàn diện, ứng dụ
 -   **Scikit-learn & SciPy**: Xử lý vector hóa văn bản (TF-IDF) và phân tích ma trận (SVD).
 -   **Vietnamese NLP**: Tối ưu hóa bóc tách văn bản tiếng Việt với hỗ trợ Trigrams.
 
-## 🛠️ Hướng Dẫn Cài Đặt & Chạy
+## 🌟  Hướng Dẫn Cài Đặt & Chạy
 
 ### 1. Yêu cầu hệ thống
 -   Python 3.10+
@@ -62,14 +62,14 @@ npm run dev
 
 *Lưu ý: Nếu bạn gặp lỗi Execution Policy trên Windows, hãy sử dụng `npm.cmd` thay vì `npm`.*
 
-## 📊 Kiến Trúc Dữ Liệu
+## 🌟  Kiến Trúc Dữ Liệu
 
 Hệ thống sử dụng mô hình Hybrid phân cấp:
 1.  **Content Weight (0.35)**: Dựa trên sự tương đồng về nội dung bài báo người dùng đã đọc.
 2.  **Collaborative Weight (0.45)**: Dự báo dựa trên sở thích của những người dùng tương đồng.
 3.  **Category Weight (0.20)**: Điều chỉnh dựa trên sở thích chủ đề (Ví dụ: Người dùng hay đọc tin "Công nghệ").
 
-## 🛡️ Tài Khoản Kiểm Thử (Demo)
+## 🌟 Tài Khoản Kiểm Thử (Demo)
 Bạn có thể sử dụng tài khoản sau để đăng nhập vào trang quản lý:
 -   **Email**: `demo@example.com`
 -   **Mật khẩu**: `password123`
@@ -85,7 +85,7 @@ newrecomandationsystem/
 └── data_train/     # Dữ liệu mẫu dùng cho huấn luyện mô hình ban đầu
 ```
 
-## 📝 Các Cải Tiến Mới Nhất
+## 🌟 Các Cải Tiến Mới Nhất
 -   **Fix lỗi ánh xạ ID**: Đồng bộ hoàn toàn ID giữa Database và ML Service.
 -   **Cải thiện thuật toán sắp xếp**: Sắp xếp điểm số gợi ý từ cao xuống thấp chính xác.
 -   **Tối ưu hóa đa dạng tin tức**: Cải thiện thuật toán Diversity Penalty giúp người dùng không bị "ngợp" bởi 1 loại tin.
