@@ -1,6 +1,6 @@
 <img width="1907" height="1035" alt="image" src="https://github.com/user-attachments/assets/acb90375-c70f-4d20-9508-306fa0fef526" />\
-#link dự án dowload:https://drive.google.com/file/d/1iP55iU8hGVNd--ODe9cin-Xg8f9ezlzu/view?usp=drive_link
-
+#link dự án dowload:https://drive.google.com/file/d/1iP55iU8hGVNd--ODe9cin-Xg8f9ezlzu/view?usp=drive_link  
+#link dự án dowload:https://drive.google.com/file/d/1e5gFB-AoZSqE7fz-mbHKuCnImGIPcxOT/view?usp=sharing
 # Hệ Thống Gợi Ý Tin Tức Cá Nhân Hóa (Thesis Level)
 
 Dự án này là một nền tảng gợi ý tin tức toàn diện, ứng dụng kỹ thuật học máy (Machine Learning) để cung cấp trải nghiệm đọc tin tối ưu cho người dùng. Hệ thống tự động thu thập tin tức, phân tích nội dung và hành vi người dùng để đưa ra các gợi ý chính xác và có chiều sâu.
